@@ -7,8 +7,8 @@ int main(){
 	
 	printf("***********************************************************************************\n");
 	printf("\n* EMPRESA: TWO BROTHERS *\n ");
-	printf("* Nome: Robert Willians Faria Martins *\n");
-	printf("* RA: 21002996-5 *\n");
+	printf("* Nome: Robert Willians *\n");
+	printf("* RA: 12345678-5 *\n");
 	printf("\n***********************************************************************************\n");
 	printf("Informe seu salario liquido do ultimo holerite: R$");
 	scanf("%f", &salario);
